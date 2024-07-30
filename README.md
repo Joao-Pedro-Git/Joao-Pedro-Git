@@ -30,7 +30,7 @@
 <div align="center">
     <p style="font-size:17px; margin:20px">A ᴠɪᴅᴀ ᴇ́ ᴜᴍᴀ ᴄᴏɴsᴛᴀɴᴛᴇ ᴏsᴄɪʟᴀᴄ̧ᴀ̃ᴏ ᴇɴᴛʀᴇ ᴀ ᴀ̂ɴsɪᴀ ᴅᴇ ᴛᴇʀ ᴇ ᴛᴇ́ᴅɪᴏ ᴅᴇ ᴘᴏssᴜɪʀ.</p>
     <p style="font-size:17px;">Mʏ Sᴛᴜᴘ:</p>
-    <img src="https://github.com/user-attachments/assets/e5208968-e7da-41d3-aad3-3090d97080e2" style="width: 400px; height: 450px;">
+    <img src="https://github.com/user-attachments/assets/442112f1-efe8-41ff-8d1b-39950df635c1" style="width: 400px; height: 450px;">
     <img src="https://github.com/user-attachments/assets/12d2203a-4735-4f2e-91a1-732ad563a162" style="width: 400px; height: 450px;">
 </div>
 
