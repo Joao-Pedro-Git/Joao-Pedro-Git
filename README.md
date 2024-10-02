@@ -15,9 +15,6 @@
 
 ![Estatísticas do GitHub](https://yourusername.github.io/github-readme-stats/api?username=Joao-Pedro-Git&show_icons=true&theme=radical)
 
-
-
-
 </div>
 
 ##
