@@ -30,7 +30,7 @@
 
 <!-- Skills -->
 <div align="center" style="margin-top:25px">
-    <h2>Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs🤺</h2>
+    <p style="font-size:16px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs🤺</p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,git,react,php,py,mysql,kali" />
     </a>
