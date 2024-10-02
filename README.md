@@ -13,7 +13,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp__xzz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-78307024b/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/842452747893997578)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Git&show_icons=true&theme=merko&count_private=true&hide=prs&custom_title=Estatísticas%20Falsas&hide_border=true&layout=compact&card_width=300&bg_color=transparent&border_radius=10&repo=50&followers=300&following=100&contribs=500&stars=150&commits=1000)
+![Repos](https://img.shields.io/badge/Repos-50-brightgreen)
+![Followers](https://img.shields.io/badge/Followers-300-blue)
+![Following](https://img.shields.io/badge/Following-100-orange)
+![Contribuições](https://img.shields.io/badge/Contribuições-500-yellow)
+![Stars](https://img.shields.io/badge/Stars-150-yellowgreen)
+![Commits](https://img.shields.io/badge/Commits-1000-red)
+
 
 
 </div>
