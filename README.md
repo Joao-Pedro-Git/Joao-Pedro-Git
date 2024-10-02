@@ -6,12 +6,6 @@
 
 ##
 
-<!-- Total Commits -->
-<div align="center">
-    <p style="font-size:16px;">Tᴏᴛᴀʟ ᴅᴇ Cᴏᴍᴍɪᴛs: <strong>42</strong></p>
-</div>
-
-##
 
 <!-- Contact Links -->    
 <div align="center" style="text-align:center;" >
