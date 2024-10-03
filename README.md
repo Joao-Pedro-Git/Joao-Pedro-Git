@@ -30,7 +30,7 @@
 
   <br>
 
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=merko" alt="Top Linguagens" style="width: 40%;" />
 
 </div>
 
