@@ -25,7 +25,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Git&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 45%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Git&theme=merko" alt="GitHub Streak" style="width: 49%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Git&theme=merko" alt="GitHub Streak" style="width: 48%;" />
   </div>
 
   <br>
