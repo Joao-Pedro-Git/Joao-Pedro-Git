@@ -5,7 +5,6 @@
 
 </div>
 
-
 ##
 
 <!-- Skills -->
@@ -18,25 +17,24 @@
 
 ##
 
-
 <div align="center">
 
   <p style="font-size:17px">Eꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ ᴅᴏ GɪᴛHub:</p>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Git&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Git&theme=merko" alt="GitHub Streak" style="width: 430px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Git&theme=radical" alt="GitHub Streak" style="width: 430px;" />
+
   </div>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=merko" alt="Top Linguagens" style="width: 40%;" />
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&theme=radical" alt="Linguagens mais usadas" style="width: 300px; height:300px" />
 </div>
 
 ##
 
-<!-- Contact Links -->    
+<!-- Contact Links -->
 <div align="center" style="text-align:center;" >
 <p style="font-size:16px">Fᴀʟᴇ ᴄᴏᴍɪɢᴏ:<p>
 
@@ -63,4 +61,5 @@
 </div>
 
 ##
+
 <div align="center" style="font-size:20px">Eɴᴅ.</div>
