@@ -11,7 +11,7 @@
 <div align="center" style="margin-top:25px">
     <p style="font-size:16px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs🤺</p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,ts,wordpress,git,angular,php,py,mysql,kali" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,wordpress,git,react,php,py,mysql,kali" />
     </a>
 </div>
 
