@@ -23,7 +23,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Git&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=radical" alt="Top Langs" style="width: 550px; height:170px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=radical" alt="Top Langs" style="width: 430px; height:170px" />
   </div>
   <br>
 </div>
