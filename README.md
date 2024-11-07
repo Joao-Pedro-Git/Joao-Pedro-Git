@@ -23,9 +23,13 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Git&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=radical" alt="Top Langs" style="width: 430px; height:170px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Git&theme=radical" alt="GitHub Streak" style="width: 430px;" />
+
   </div>
+
   <br>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&theme=radical" alt="Linguagens mais usadas" style="width: 300px; height:300px" />
 </div>
 
 ##
