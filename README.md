@@ -1,7 +1,7 @@
 <!-- Presentation -->
 <div align="center" style="text-align:center">
     <p style="font-size:30px; margin-bottom:5px" >Jᴏᴀ̃ᴏ Pᴇᴅʀᴏ</p>
-    <p style="font-size:15px"> Esᴛᴜᴅᴀɴᴛᴇ ᴅᴇ Aɴᴀ́ʟɪsᴇ ᴇ Dᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ Sɪsᴛᴇᴍᴀs </p>
+    <p style="font-size:15px">- Eᴛʜɪᴄᴀʟ Hᴀᴄᴋɪɴɢ & Dᴇᴠᴇʟᴏᴘᴇʀ -</p>
 
 </div>
 
